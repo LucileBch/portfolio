@@ -1,0 +1,16 @@
+// Correcting zindex-offcanvas bootstrap issue
+$zindex-offcanvas: 1051;
+
+// Changing font family
+$font-family-sans-serif: "Open Sans";
+$headings-font-family: "Yellowtail", cursive;
+
+
+// Changing colors
+$light: #F5F5F5;
+$dark: #494E5F;
+$info: #3DD2CC;
+$progress-bar-bg: #F5F5F5;
+
+// Changing default card-height
+$card-height: 100%
