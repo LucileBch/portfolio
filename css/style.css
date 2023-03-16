@@ -10772,3 +10772,8 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Adding Style*/
+#presentation {
+  text-align: justify;
+}
