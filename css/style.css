@@ -1,3 +1,8 @@
+/* Adding Style*/
+#presentation {
+  text-align: justify;
+}
+
 @charset "UTF-8";
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
@@ -10773,7 +10778,3 @@ textarea.form-control-lg {
 
 /*# sourceMappingURL=style.css.map */
 
-/* Adding Style*/
-#presentation {
-  text-align: justify;
-}
